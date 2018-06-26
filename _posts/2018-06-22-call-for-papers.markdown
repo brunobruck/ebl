@@ -99,6 +99,7 @@ There will also be a Logic School on the weekend previous to the conference (spe
 - Wagner Sanz (UFG)
 - Bruno Petrato Bruck (UFPB)
 - Teobaldo Leite Bulhões Júnior (UFPB)
+- Andrei de Araujo Formiga (UFPB)
 
 #### Contact
 

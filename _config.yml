@@ -43,10 +43,10 @@ metaKeywords: "event, ebl, logic, mathematics, school, conference"
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
- - {permalink: "/schedule/", text: "Program"}
  - {permalink: "/blog/call-for-papers", text: "Call for Papers"}
  - {permalink: "/blog/important-dates", text: "Important Dates"}
  - {permalink: "/registration/", text: "Registration"}
+ - {permalink: "/schedule/", text: "Program"}
  - {permalink: "/logistics/", text: "Location"}
 
 # Hero Block
