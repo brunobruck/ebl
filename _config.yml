@@ -70,9 +70,9 @@ aboutBlock:
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "350", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
- - {count: "48", specialCharacter: "+", info: "hours", detail: "of pure presentations"}
- - {count: "20", specialCharacter: "+", info: "speakers", detail: "from the country and from abroad"}
+ - {count: "100", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
+ - {count: "40", specialCharacter: "+", info: "hours", detail: "of presentations"}
+ - {count: "6", specialCharacter: "+", info: "speakers", detail: "from the country and abroad"}
  - {count: "2", specialCharacter: "", info: "days", detail: "of Logic School"}
 
 # Latest News Block

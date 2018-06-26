@@ -83,9 +83,9 @@ There will also be a Logic School on the weekend previous to the conference (spe
 
 #### Organization
 
-Universidade Federal da Paraíba (UFPB)
-Universidade Federal de Campina Grande (UFCG)
-Sociedade Brasileira de Lógica (SBL)
+- Universidade Federal da Paraíba (UFPB)
+- Universidade Federal de Campina Grande (UFCG)
+- Sociedade Brasileira de Lógica (SBL)
     
 
 #### Organizing Committee
@@ -97,6 +97,8 @@ Sociedade Brasileira de Lógica (SBL)
 - Ana Thereza Maier (UFPB)
 - Lucídio Cabral (UFPB)
 - Wagner Sanz (UFG)
+- Bruno Petrato Bruck (UFPB)
+- Teobaldo Leite Bulhões Júnior (UFPB)
 
 #### Contact
 
