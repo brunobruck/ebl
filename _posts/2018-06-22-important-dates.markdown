@@ -16,5 +16,5 @@ isStaticPost: false
 
 #### Contact
 
-For more information please contact the Organizing Committee at
-  XXXX@iXXXX
+
+For more information please contact the Organizing Committee at <a href="mailto:EBL2019contact@gmail.com">EBL2019contact@gmail.com</a>.
