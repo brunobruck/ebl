@@ -13,7 +13,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 title: "EBL 2019"
 email: "email"
 description: "19th Brazilian Logic Conference (EBL 2019)"
-baseurl: "/ebl"
+baseurl: ""
 url: "https://brunobruck.github.io"
 permalink: "/blog/:title"
 # googleAnalyticsTrackingId: "UA-43643469-5"
