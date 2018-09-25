@@ -45,7 +45,7 @@ navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/blog/call-for-papers", text: "Call for Papers"}
  - {permalink: "/blog/important-dates", text: "Important Dates"}
- - {permalink: "/registration/", text: "Registration"}
+ # - {permalink: "/registration/", text: "Registration"}
  - {permalink: "/schedule/", text: "Program"}
  - {permalink: "/logistics/", text: "Location"}
 
@@ -63,17 +63,17 @@ heroButtons:
 # About Block
 aboutTitle: "About the 19th Brazilian Logic Conference"
 aboutBlock:
- - {title: "Conference", image: "conference.jpg", text: "The Brazilian Logic Conference (EBL) is a traditional event of the Brazilian Logic Society (SBL). They have been occurring since 1979 and congregates logicians of different fields and the meeting is an important moment for the Brazilian and South-American community to join together and engage in a discussion about the state-of-art of their subject." }
- - {title: "Logic School", image: "school.jpg", text: "Texto sobre a escola" }
+ - {title: "Conference", image: "conference.jpg", text: "The Brazilian Logic Conference (EBL) is a traditional event of the Brazilian Logic Society (SBL). It has been occurring since 1979 and congregates logicians of different fields and the meeting is an important moment for the Brazilian and South-American community to join together and engage in a discussion about the state-of-art of their subject." }
+ - {title: "Logic School", image: "school.jpg", text: "The Logic School is a parallel event to the EBL aimed (mainly) at undergraduate and graduate students. It offers tutorials on different logical subject matters by world renowned experts." }
  # - {title: "Hackathon", image: "hackathon.jpg", text: "Full-day freestyle hackathon! Want some real team building on friday? Grab your team and join our hackathon!" }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "100", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
+ - {count: "200", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
  - {count: "40", specialCharacter: "+", info: "hours", detail: "of presentations"}
- - {count: "6", specialCharacter: "+", info: "speakers", detail: "from the country and abroad"}
- - {count: "2", specialCharacter: "", info: "days", detail: "of Logic School"}
+ - {count: "10", specialCharacter: "+", info: "speakers", detail: "from the country and abroad"}
+ - {count: "10", specialCharacter: "", info: "hours", detail: "of Tutorials"}
 
 # Latest News Block
 latestNewsTitle: "Latest news"
@@ -86,27 +86,26 @@ rockstarSpeakersButtonText: "See all speakers"
 
 # Location Block
 locationBlockTitle: "Location"
-eventLocationName: "Local do evento"
-eventLocationLink: "Link"
-eventStreetAddress: "Endereço do evento"
-eventAddressLocality: "Universidade Federal da Paraíba"
+eventLocationName: "Hotel Nord Luxxor Tambaú"
+eventLocationLink: "http://www.nordhoteis.com.br/en/hotel/nord-luxxor-tambau/"
+eventStreetAddress: "Av. Alm. Tamandaré, 740 - Tambaú, João Pessoa"
+eventAddressLocality: "Hotel Nord Luxxor Tambaú"
 eventAddressLocalityRegion: "Paraíba"
 eventAddressCountry: "Brazil"
-eventStartTime: "2014-10-25T10:00"
-eventDoorTime: "09:00"
-eventEndTime: "2014-10-25T20:00"
-eventPlaceCoordinates: "-7.137615, -34.845175"
-mapCenterCoordinates: "-7.137615, -34.845175"
-mapMobileCenterCoordinates: "-7.137615, -34.845175"
+# eventStartTime: "2014-10-25T10:00"
+# eventDoorTime: "09:00"
+# eventEndTime: "2014-10-25T20:00", 
+eventPlaceCoordinates: "-7.116387, -34.823286"
+mapCenterCoordinates: "-7.116387, -34.823286"
+mapMobileCenterCoordinates: "-7.116387, -34.823286"
 
 # Venue Block
 venueBlockTitle: "Venue"
-venueBigImage: "venue_0.jpg"
-venueSmallImage1: "venue_1.jpg"
-venueSmallImage2: "venue_2.jpg"
-venueSmallImage3: "venue_3.jpg"
-venueTitle: "Nome do local do evento"
-venueFeatures: ["Feature 1", "Feature 2", "Feature 3"]
+venueBigImage: "hotel_1.jpg"
+venueSmallImage1: "hotel_2.jpg"
+venueSmallImage2: "hotel_3.jpg"
+venueTitle: "Hotel Nord Luxxor Tambaú"
+venueFeatures: ["Conference rooms", "Restaurant", "Close to the beach"]
 
 # Tweets Feed Block
 # tweetsFeedImage: "twitter-feed.jpg"
@@ -115,9 +114,9 @@ venueFeatures: ["Feature 1", "Feature 2", "Feature 3"]
 # twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
 
 # Partners Block
-organizersTitle: "Organizers"
-partnersTitle: "Partners"
-partnersC4sponsorsButton: "Become a sponsor"
+# organizersTitle: "Organizers"
+# partnersTitle: "Partners"
+# partnersC4sponsorsButton: "Become a sponsor"
 
 # Subscribe Block
 # subscribeImage: "subscribe.jpg"
@@ -201,6 +200,6 @@ logisticsMapAutoDirections: false
 directionDetailsImage: "orla.jpg"
 directionDetailsTitle: "Get around João Pessoa"
 directionDetailsCards:
- - {title: "From the Airport", information: 'Texto'}
- - {title: "Public Transit", information: 'Texto'}
- - {title: "Hotels", information: 'Texto'}
+ - {title: "From the Airport", information: 'Soon'}
+ - {title: "Public Transit", information: 'Soon'}
+ - {title: "Hotels", information: 'Soon'}
