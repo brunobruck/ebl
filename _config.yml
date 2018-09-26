@@ -38,7 +38,7 @@ typeoutTextValues: '"", "| João Pessoa", "| Brazil"'
 heroButtons:
  # - {link: "https://bit.ly/", text: "Call for Papers"}
  - {permalink: "/blog/call-for-papers", text: "Call for Papers"}
- - {permalink: "/registration", text: "Registration"}
+ # - {permalink: "/registration", text: "Registration"}
 
 # About Block
 aboutTitle: "About the 19th Brazilian Logic Conference"
