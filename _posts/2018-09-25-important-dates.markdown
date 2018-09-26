@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Important Dates"
-date:   2018-06-22 09:00:00
+date:   2018-09-25 11:00:00
 isStaticPost: false
 ---
 #### __19th Brazilian Logic Conference__

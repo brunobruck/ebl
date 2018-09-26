@@ -16,29 +16,9 @@ description: "19th Brazilian Logic Conference (EBL 2019)"
 baseurl: ""
 url: "https://brunobruck.github.io"
 permalink: "/blog/:title"
-# googleAnalyticsTrackingId: "UA-43643469-5"
-# googleAnalyticsSiteUrl: "brunobruck.github.io"
-# siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
-
-# Organizer Info
-# organizerName: "GDG Lviv"
-# organizerAlternateName: "Google Developer Group Lviv"
-# organizerDescription: "Open and volunteer geek communities who create exciting projects and share experience about Google technology with passion."
-# organizerEmail: "lviv@gdg.org.ua"
-# organizerLogo: "/img/seo/organizer-logo.png"
-# organizerLink: "http://lviv.gdg.org.ua/"
 
 # Head
 metaKeywords: "event, ebl, logic, mathematics, school, conference"
-# twitterAccount: "@DevFest"
-# socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
-# socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
-# socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
-
-# Documents
-# c4pUrl: "https://bit.ly/"
-# c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
-
 
 # Navigation
 navigationLinks:
@@ -47,7 +27,7 @@ navigationLinks:
  - {permalink: "/blog/important-dates", text: "Important Dates"}
  # - {permalink: "/registration/", text: "Registration"}
  - {permalink: "/schedule/", text: "Program"}
- - {permalink: "/logistics/", text: "Location"}
+ - {permalink: "/blog/accommodation", text: "Accommodation"}
 
 # Hero Block
 heroImage: "Litoral.jpg"
@@ -126,51 +106,28 @@ venueFeatures: ["Conference rooms", "Restaurant", "Close to the beach"]
 
 # Tickets Block
 ticketsTitle: "Registration fees"
-ticketsInfo: "Tickets grant access to all conference sections and coffee brakes. Accommodation and lunch are NOT included in the ticket price."
+ticketsInfo: "REGISTRATIONS WILL BE AVAILABLE SOON. Tickets grant access to all conference sections and coffee brakes. Accommodation and lunch are NOT included in the ticket price."
 ticketsOffers:
  -
   name: "Early Bird"
-  price: "350"
-  priceCurrency: "BRL"
-  ticketsNumber: "150"
-  ribbon: "-5%"
-  # buyButtonLink: "http://dfua.ticketforevent.com/"
-  buyButtonText: "Register now"
-  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2014-08-25T10:00"
-  validThrough: "2014-09-30T23:59"
+  tariffs:
+    - {name: "Faculty members/Researchers", price: "400", currency: "BRL"}
+    - {name: "Faculty members/Researchers (SBL members)", price: "120", currency: "BRL"}
+    - {name: "Graduate Students", price: "150", currency: "BRL"}
+    - {name: "Graduate Students (SBL members)", price: "80", currency: "BRL"}
+  additionalInfo: "Valid for registrations performed until March 10th"
  -
   name: "Late registration"
-  price: "450"
-  priceCurrency: "BRL"
-  ticketsNumber: "100"
-  ribbon: "-20%"
-  featured: true
-  # buyButtonLink: "http://dfua.ticketforevent.com/"
-  buyButtonText: "Register now"
-  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2014-10-01T00:00"
-  validThrough: "2014-10-23T23:59"
-  disabled: true
+  tariffs:
+    - {name: "Faculty members/Researchers", price: "550", currency: "BRL"}
+    - {name: "Faculty members/Researchers (SBL members)", price: "250", currency: "BRL"}
+    - {name: "Graduate Students", price: "200", currency: "BRL"}
+    - {name: "Graduate Students (SBL members)", price: "120", currency: "BRL"}
+  additionalInfo: "After March 10th"
  -
-  name: "Student"
-  price: "200"
-  priceCurrency: "BRL"
-  ticketsNumber: "50"
-  # buyButtonLink: "http://dfua.ticketforevent.com/"
-  buyButtonText: "Register now"
-  additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund"
-  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2014-08-20T10:00"
-  validThrough: "2014-10-23T23:59"
-  soldOut: true
-  soldOutText: "Sold Out"
-
-# Footer
-socialLinks:
- - {link: "https://plus.google.com/", icon: "google-plus"}
- - {link: "https://twitter.com/", icon: "twitter"}
- - {link: "https://facebook.com/", icon: "facebook"}
+  name: "Undergraduate Students"
+  tariffs:
+    - {name: "FREE", price: "", currency: ""}
 
 # Blog
 blogTitle: "Latest news"
@@ -179,10 +136,6 @@ blogCommentsEnabled: true
 
 # Speakers List Block
 showSessions: true
-
-# Team Block
-teamBlockTitle: "About us"
-aboutUs: "Google's services have become synonymous with simple things online. Number of technological innovations and IT industries in which Google is creating new products is enormous. It's hard to get to know all of them, but realistic. This is why people have started to gather in small local groups and share their experience. Later, the following groups have been called Google Developer Groups. GDGs can take many forms -- from just a few people getting together to watch some videos, to large gatherings with demos, tech talks, hackathons and conferences."
 
 # Logistics Find Way Block
 findWayTitle: "Find your way here"
