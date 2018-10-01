@@ -53,7 +53,7 @@ The EBL 2019 also aims to be a forum for presenting and discussing work in progr
 #### Important Dates
 
 - Brazilian Logic Conference: May 6-10, 2019
-- Logic School: May 4-5, 2019
+- Logic School: May 6-10, 2019
 - Submission Deadline: Jan 5, 2019
 - Acceptance Notification: Feb 4, 2019
 
@@ -65,6 +65,7 @@ The EBL 2019 also aims to be a forum for presenting and discussing work in progr
 - Luis Soares Barbosa (Universidade do Minho)
 - Mario Benevides (UFRJ)
 - Mirna Dzamonja (University of East Anglia)
+- Frank Sautter (UFSM)
 
 
 #### Scientific Committee
