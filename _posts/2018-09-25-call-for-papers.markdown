@@ -32,7 +32,7 @@ This edition of the EBL particularly welcomes abstracts on Logic Teaching so as 
 
 The presentation of contributed papers in the event must fit a slot of 20 minutes of exposition plus 10 minutes of questions and discussion. 
 
-Abstracts should be written in Portuguese, Spanish or English with a maximum of 600 words and it must contain title, name, keywords, affiliation and essential bibliography. To submit, they must be sent, in a PDF file, until Jan 5, 2019 through <a href="https://easychair.org/conferences/?conf=ebl2019">EasyChair</a>. Note that, prior registration with EasyChair is required.
+Abstracts should be written in Portuguese, Spanish or English with a maximum of 600 words and it must contain title, name, keywords, affiliation and essential bibliography. To submit, they must be sent, in a PDF file, until Jan 5, 2019 through <a href="https://easychair.org/conferences/?conf=ebl2019" target="_blank">EasyChair</a>. Note that, prior registration with EasyChair is required.
 
 ###### Templates
 - <a href="/downloads/latex_template.tex">LaTeX</a>
