@@ -62,10 +62,10 @@ The EBL 2019 also aims to be a forum for presenting and discussing work in progr
 - Catarina Dutilh-Novaes (VU Amsterdam)
 - Edward Zalta (Stanford)
 - Elaine Pimentel (UFRN)
+- Frank Sautter (UFSM)
 - Luis Soares Barbosa (Universidade do Minho)
 - Mario Benevides (UFRJ)
 - Mirna Dzamonja (University of East Anglia)
-- Frank Sautter (UFSM)
 
 
 #### Scientific Committee
@@ -100,10 +100,10 @@ The 19th Brazilian Logic Conference is organized by Universidade Federal de Camp
 #### Organizing Committee
 
 - Ricardo Sousa Silvestre (UFCG, co-chair)
+- Ana Thereza Maier (UFPB, co-chair)
 - Garibaldi Sarmento (UFPB, co-chair)
 - Cezar A. Mortari (UFSC)
 - Samuel Gomes da Silva (UFBA)
-- Ana Thereza Maier (UFPB)
 - Lucídio Cabral (UFPB)
 - Wagner Sanz (UFG)
 - Tiago Massoni (UFCG)

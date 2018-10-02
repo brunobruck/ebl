@@ -10,7 +10,7 @@ isStaticPost: false
 #### Important Dates
 
 - Brazilian Logic Conference: May 6-10, 2019
-- Logic School: May 4-5, 2019
+- Logic School: May 6-10, 2019
 - Submission Deadline: Jan 5, 2019
 - Acceptance Notification: Feb 4, 2019
 
