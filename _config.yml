@@ -106,7 +106,7 @@ venueFeatures: ["Conference rooms", "Restaurant", "Close to the beach"]
 
 # Tickets Block
 ticketsTitle: "Registration fees"
-ticketsInfo: "REGISTRATIONS WILL BE AVAILABLE SOON. Tickets grant access to all conference sections and coffee breaks. Accommodation and lunch are NOT included in the ticket price."
+ticketsInfo: "REGISTRATIONS WILL BE AVAILABLE SOON. Tickets grant access to all conference sessions and coffee breaks. Accommodation and lunch are NOT included in the ticket price."
 ticketsOffers:
  -
   name: "Early Bird"
