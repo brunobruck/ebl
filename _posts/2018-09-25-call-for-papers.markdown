@@ -79,7 +79,7 @@ The EBL 2019 also aims to be a forum for presenting and discussing work in progr
 - Edward Hermann Haeusler (PUC-Rio)
 - Gisele Secco (UFSM)
 - Ítala Maria Loffredo D'Ottaviano (Unicamp)
-- João Marcos de Almeida (UFRN)
+- João Marcos (UFRN)
 - Jorge Petrúcio Viana (UFF)
 - Leandro Oliva Suguitani (UFBA)
 - Luiz Carlos Pereira (PUC-Rio/UERJ)
