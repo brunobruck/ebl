@@ -83,6 +83,7 @@ The EBL 2019 also aims to be a forum for presenting and discussing work in progr
 - Jorge Petrúcio Viana (UFF)
 - Leandro Oliva Suguitani (UFBA)
 - Luiz Carlos Pereira (PUC-Rio/UERJ)
+- Marcelo Coniglio (Unicamp)
 - Marcelo Finger (USP)
 - Maurício Ayala-Rincón (UnB)
 - Nastassja Pugliese (USP)

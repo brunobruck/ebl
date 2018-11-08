@@ -112,7 +112,7 @@ ticketsOffers:
   name: "Early Bird"
   tariffs:
     - {name: "Faculty members/Researchers", price: "400", currency: "BRL"}
-    - {name: "Faculty members/Researchers (SBL members)", price: "120", currency: "BRL"}
+    - {name: "Faculty members/Researchers (SBL members)", price: "150", currency: "BRL"}
     - {name: "Graduate Students", price: "150", currency: "BRL"}
     - {name: "Graduate Students (SBL members)", price: "80", currency: "BRL"}
   additionalInfo: "Valid for registrations performed until March 10th"
