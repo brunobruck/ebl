@@ -101,7 +101,7 @@ The 19th Brazilian Logic Conference is organized by Universidade Federal de Camp
 #### Organizing Committee
 
 - Ricardo Sousa Silvestre (UFCG, co-chair)
-- Ana Thereza D&‌uuml;rmaier (UFPB, co-chair)
+- Ana Thereza Dürmaier (UFPB, co-chair)
 - Garibaldi Sarmento (UFPB, co-chair)
 - Cezar A. Mortari (UFSC)
 - Samuel Gomes da Silva (UFBA)
