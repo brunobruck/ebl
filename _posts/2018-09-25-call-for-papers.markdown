@@ -54,8 +54,8 @@ The EBL 2019 also aims to be a forum for presenting and discussing work in progr
 
 - Brazilian Logic Conference: May 6-10, 2019
 - Logic School: May 6-10, 2019
-- Submission Deadline: <strike>Jan 5, 2019</strike> Extended to Jan 24, 2019.
-- Acceptance Notification: Feb 4, 2019
+- Submission Deadline: <strike>Jan 5, 2019</strike> Extended to Jan 24, 2019
+- Acceptance Notification: Feb 15, 2019
 
 #### Keynote speakers (confirmed)
 
