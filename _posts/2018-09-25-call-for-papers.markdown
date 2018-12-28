@@ -111,6 +111,7 @@ The 19th Brazilian Logic Conference is organized by Universidade Federal de Camp
 - Bruno Petrato Bruck (UFPB)
 - Teobaldo Leite Bulhões Júnior (UFPB)
 - Andrei de Araujo Formiga (UFPB)
+- Pedro Carné (UFCG)
 
 #### Contact
 
