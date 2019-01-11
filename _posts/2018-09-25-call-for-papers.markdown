@@ -32,18 +32,18 @@ This edition of the EBL particularly welcomes abstracts on Logic Teaching so as 
 
 The presentation of contributed papers in the event must fit a slot of 20 minutes of exposition plus 10 minutes of questions and discussion. 
 
-Abstracts should be written in Portuguese, Spanish or English with a maximum of 600 words and it must contain title, name, keywords, affiliation and essential bibliography. To submit, they must be sent, in a PDF file, until Jan 5, 2019 through <a href="https://easychair.org/conferences/?conf=ebl2019" target="_blank">EasyChair</a>. Note that, prior registration with EasyChair is required.
+Abstracts should be written in Portuguese, Spanish or English with a maximum of 600 words and it must contain title, name, keywords, affiliation and essential bibliography. To submit, they must be sent, in a PDF file, until Jan 24, 2019 through <a href="https://easychair.org/conferences/?conf=ebl2019" target="_blank">EasyChair</a>. Note that, prior registration with EasyChair is required.
 
 ###### Templates
 - <a href="/downloads/latex_template.tex">LaTeX</a>
 - <a href="/downloads/word_template.docx">Word</a>
 - <a href="/downloads/odt_template.odt">ODT</a>
 
-Notification of acceptance will be released on Feb 4, 2019. At least one author of each accepted paper must register for presenting the paper at the meeting. Each given participant may coauthor more than one paper, but will only be allowed to present a single talk. The Scientific Committee will consider the following items when selecting the papers: relevance and importance of the topic, originality and quality of work. 
+Notification of acceptance will be released on Feb 15, 2019. At least one author of each accepted paper must register for presenting the paper at the meeting. Each given participant may coauthor more than one paper, but will only be allowed to present a single talk. The Scientific Committee will consider the following items when selecting the papers: relevance and importance of the topic, originality and quality of work. 
 
 #### Call for Round Tables
 
-The EBL 2019 is happy to host round table proposals with a duration of at most two hours. They may be divided as desired, with a maximum of 4 and a minimum of 3 participants per session. The description and the title for the session should be of a maximum of 1500 words containing an abstract for each exposition including title, name, keywords, affiliation and bibliography. Each session must have a coordinating chair assigned in the proposal. Submissions of round table proposals must be sent, in a PDF file, until Jan 5, 2019 to <a href="mailto:EBL2019tables@gmail.com">EBL2019tables@gmail.com</a>.
+The EBL 2019 is happy to host round table proposals with a duration of at most two hours. They may be divided as desired, with a maximum of 4 and a minimum of 3 participants per session. The description and the title for the session should be of a maximum of 1500 words containing an abstract for each exposition including title, name, keywords, affiliation and bibliography. Each session must have a coordinating chair assigned in the proposal. Submissions of round table proposals must be sent, in a PDF file, until Jan 24, 2019 to <a href="mailto:EBL2019tables@gmail.com">EBL2019tables@gmail.com</a>.
 
 
 #### Proceedings 
