@@ -60,6 +60,7 @@ The EBL 2019 also aims to be a forum for presenting and discussing work in progr
 #### Keynote speakers (confirmed)
 
 - Catarina Dutilh-Novaes (VU Amsterdam)
+- Eberhard Guhe (Harvard-Yenching Institute/Fudan University)
 - Edward Zalta (Stanford)
 - Elaine Pimentel (UFRN)
 - Frank Sautter (UFSM)
