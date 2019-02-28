@@ -115,7 +115,7 @@ ticketsOffers:
     - {name: "Faculty members/Researchers (SBL members)", price: "150", currency: "BRL"}
     - {name: "Graduate Students", price: "150", currency: "BRL"}
     - {name: "Graduate Students (SBL members)", price: "80", currency: "BRL"}
-  additionalInfo: "Valid for registrations performed until March 10th"
+  additionalInfo: "Valid for registrations performed <b>until March 25th</b>"
  -
   name: "Late registration"
   tariffs:
@@ -123,7 +123,7 @@ ticketsOffers:
     - {name: "Faculty members/Researchers (SBL members)", price: "250", currency: "BRL"}
     - {name: "Graduate Students", price: "200", currency: "BRL"}
     - {name: "Graduate Students (SBL members)", price: "120", currency: "BRL"}
-  additionalInfo: "After March 10th"
+  additionalInfo: "After March 25th"
  -
   name: "Undergraduate Students"
   tariffs:
