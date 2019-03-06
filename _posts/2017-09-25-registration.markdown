@@ -35,10 +35,8 @@ The cost will be 80 BRL per person. Dinner includes free buffet, nonalcoholic be
 
 <br>
 #### How to register
- 
-1) Fill in the registration form at <a href="https://goo.gl/forms/TqLOhI6K5RcBzjrI2">https://goo.gl/forms/TqLOhI6K5RcBzjrI2</a>
 
-2) Make a bank deposit in the following account:
+1) Make a bank deposit in the following account in order to pay the registration fees:
  
 
     Sociedade Brasileira de Lógica
@@ -48,7 +46,9 @@ The cost will be 80 BRL per person. Dinner includes free buffet, nonalcoholic be
     Conta Corrente: 648-3
     Operação: 003
 
-3) Save or scan the deposit receipt and send it to <a href="mailto:regist.ebl2019@gmail.com">regist.ebl2019@gmail.com</a>
+2) Save or scan the deposit receipt
+
+3) Fill in the registration form at <a href="https://goo.gl/forms/TqLOhI6K5RcBzjrI2">https://goo.gl/forms/TqLOhI6K5RcBzjrI2</a> and submit the deposit receipt
 
 \* **If you are not currently in Brazil and are unable to make a bank deposit, please contact the organizers at <a href="mailto:regist.ebl2019@gmail.com">regist.ebl2019@gmail.com</a> for payment alternatives.**
 

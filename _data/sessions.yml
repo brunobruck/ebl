@@ -14,7 +14,7 @@
   language: en
 -
   id: 003
-  title: "TBA"
+  title: "Logic and Existence: How Logic and Metaphysics are Entangled"
   description: ""
   subtype: presentation
   speakers: [3]
@@ -49,8 +49,8 @@
   language: en
 -
   id: 008
-  title: "TBA"
-  description: ""
+  title: "Logic as a modelling tool"
+  description: "There are many reasons to study logic, but the one which we shall discuss in this talk is the use of logic to model thought processes in mathematics and to obtain new theorems as a consequence. One of the most beautiful instances of this is the first order logic which can be used to prove and unify many theorems in mathematics. For example, the compactness of first order logic has numerous applications, from Ramsey’s theorem on. Yet, there are many mathematical processes which first order logic is not sufficient to express, for example even the notion of convergence of real sequences needs an infinite conjunction to be expressed in logical terms. Therefore one needs to study the so called strong logics, with more expressive power. Gaining in expressibility often means losing the pleasing properties that we are used to have in the first order case, such as compactness. Yet, surprisingly, there are certain very strong compactness results happening at unexpectedly high cardinals: singular cardinals, the smallest of which is aleph_omega. We try to explain this phenomenon in terms of strong logics."
   subtype: presentation
   speakers: [8]
   language: en
