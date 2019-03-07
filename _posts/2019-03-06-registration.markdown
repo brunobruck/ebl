@@ -50,7 +50,7 @@ The cost will be 80 BRL per person. Dinner includes free buffet, nonalcoholic be
 
 3) Fill in the registration form at <a href="https://goo.gl/forms/TqLOhI6K5RcBzjrI2">https://goo.gl/forms/TqLOhI6K5RcBzjrI2</a> and submit the deposit receipt
 
-\* **If you are not currently in Brazil and are unable to make a bank deposit, please contact the organizers at <a href="mailto:regist.ebl2019@gmail.com">regist.ebl2019@gmail.com</a> for payment alternatives.**
+\* **If you are not currently in Brazil and are unable to make a bank deposit, please contact the organizers at <a href="mailto:registr.ebl2019gmail.com">registr.ebl2019@gmail.com</a> for payment alternatives.**
 
 
 <br>
