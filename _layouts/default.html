@@ -31,8 +31,6 @@ layout: compress
     {% if page.permalink == '/schedule/' %}
         {% include sessions-modals.html %} 
     {% endif %} 
-
-    {% include analytics.html %}
     
     <script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
     <script>
@@ -46,7 +44,8 @@ layout: compress
     </script>
     <script src="{{ "/js/default.js" | prepend: site.baseurl }}"></script>
     {% if page.permalink == '/' or page.permalink == '/hackathon/' %}
-        <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&key=AIzaSyBxDuFeHkLmJUusFALw2xZpUfDtChukCtc"><\/script>
+        <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBxDuFeHkLmJUusFALw2xZpUfDtChukCtc"></script>
+        
     {% elsif page.permalink == '/logistics/' %}
         <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&libraries=places,geometry&key=AIzaSyBxDuFeHkLmJUusFALw2xZpUfDtChukCtc"></script>
         <script type="text/javascript">
