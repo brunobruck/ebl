@@ -16,7 +16,7 @@ You will find below a list of recommended hotels located nearby the conference v
   - single room: 366 BRL (~ 100 USD)
   - double room: 427 BRL (~ 115 USD)
   - <b>Important:</b>
-    - Note that there are limited rooms with special discount reserved for those who plan to attend the event. Thus, we strongly advise to book before March 7th.
+    - Note that there are limited rooms with special discount reserved for those who plan to attend the event. Thus, we strongly advise to book as soon as possible
     - For this hotel the reservations shall be done exclusivelly with the official Travel Agency of the conference (see contact details below)
 - <b>Nord Class Tambaú</b>
   - single room: 280 BRL (~ 75 USD)
