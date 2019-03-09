@@ -13,19 +13,19 @@ The complete program is going to be published soon. In the meanwhile, you can fi
 
 
 ###### Tutorials (Logic School)
-- Eberhard Guhe: (TBA)
+- Eberhard Guhe: Some Highlights of Indian Logic
 - Jean-Yves Béziau: Classical Propositional Logic: a Universal Logic Approach
 - Juliana Bueno and Walter Carnielli: Lógica, probabilidade: encontros e desencontros
 - Marcelo Coniglio: Semânticas não-determinísticas
 - Renata Wassermann: (TBA)
-- Samuel Gomes da Silva: (TBA)
+- Samuel Gomes da Silva: Uma Miscelânea de Aplicações de Ultrafiltros em Matemática
 
 ###### Round Tables
-- Alexandre Costa-Leite, Eduardo Ochs, Jean-Yves Beziau, João Marcos: Algumas Aborda- gens para Disciplinas de Lógica em Cursos de Graduação
-- Giorgio Venturi, Dirk Greimann, Marco Ruffino, João Vitor Smith: Speech Acts in Mathe- matics
+- Alexandre Costa-Leite, Eduardo Ochs, Jean-Yves Beziau, João Marcos: Algumas Abordagens para Disciplinas de Lógica em Cursos de Graduação
+- Giorgio Venturi, Dirk Greimann, Marco Ruffino, João Vitor Smith: Speech Acts in Mathematics
 - Gisele Secco, Valeria de Paiva, Cláudia Nalon, Elaine Pimentel: Mulheres na Lógica (e no Brasil)
 - Marcos Silva, Dirk Greimann, Sofia Stein, Walter Carnielli, Cezar Mortari: Lógica e Filosofia Analítica: passado, presente e futuro (joint session SBL/SBFA)
-- Ricardo Silvestre, Fábio Bertato, Agnaldo Cuoco Portugal, Jean-Yves Beziau: Lógica e Re- ligião
+- Ricardo Silvestre, Fábio Bertato, Agnaldo Cuoco Portugal, Jean-Yves Beziau: Lógica e Religião
 
 ###### Contributed talks
 - <b>Abilio Rodrigues</b>: Paraconsistency, evidence, and information 	
