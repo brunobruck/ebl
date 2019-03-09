@@ -12,9 +12,9 @@ isStaticPost: false
 The complete program is going to be published soon. In the meanwhile, you can find below the list of tutorials, round tables and contributed talks.
 
 
-###### Tutorials
+###### Tutorials (Logic School)
 - Eberhard Guhe: (TBA)
-- Jean-Yves Béziau: (TBA)
+- Jean-Yves Béziau: Classical Propositional Logic: a Universal Logic Approach
 - Juliana Bueno and Walter Carnielli: Lógica, probabilidade: encontros e desencontros
 - Marcelo Coniglio: Semânticas não-determinísticas
 - Renata Wassermann: (TBA)
@@ -107,6 +107,7 @@ The complete program is going to be published soon. In the meanwhile, you can fi
 - <b>Marcelo E. Coniglio, Aldo Figallo-Orellano, Alejandro Hernández-Tello and Miguel Pérez-Gaspar</b>: Some developments on the logic <i>G'3</i>
 - <b>Marcelo Finger</b>: Sparse Models: a tractable fragment for SAT, MAXSAT and PSAT		
 - <b>Marcelo Soares and Hércules de Araujo Feitosa</b>: Conexões de Galois e álgebras modais	
+- <b>Marcio Kleos Freire Pereira</b>: A Dynamic Logic for Blind Faith
 - <b>Marcos Silva</b>: Revision of Logic: a pragmatist proposal	
 - <b>Mattia Petrolo, Paolo Pistone and Luca Tranchini</b>: Fat is undecidable		
 - <b>Maureen Eckert</b>: Towards a Feminist Logic: Val Plumwood's Legacy and Beyond		
