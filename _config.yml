@@ -105,7 +105,7 @@ venueFeatures: ["Conference rooms", "Restaurant", "Close to the beach"]
 
 # Tickets Block
 ticketsTitle: "Registration fees"
-ticketsInfo: "Access the following link to register: https://ebl2019.ci.ufpb.br/blog/registration. Tickets grant access to all conference sessions and coffee breaks. Accommodation and lunch are NOT included in the ticket price."
+ticketsInfo: "Click <a href=\"https://ebl2019.ci.ufpb.br/blog/registration\" target=\"blank\">here</a> to register. Tickets grant access to all conference sessions and coffee breaks. Accommodation and lunch are NOT included in the ticket price."
 ticketsOffers:
  -
   name: "Early Bird"
