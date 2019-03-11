@@ -25,7 +25,7 @@ navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/blog/call-for-papers", text: "Call for Papers"}
  - {permalink: "/blog/registration", text: "Registration"}
- - {permalink: "/schedule/", text: "Program"}
+ - {permalink: "/blog/program/", text: "Program"}
  - {permalink: "/blog/accommodation", text: "Accommodation"}
 
 # Hero Block
