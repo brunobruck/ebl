@@ -28,6 +28,7 @@ navigationLinks:
  - {permalink: "/blog/program", text: "Program"}
  - {permalink: "/speakers", text: "Keynote Speakers"}
  - {permalink: "/blog/accommodation", text: "Accommodation"}
+ - {permalink: "/blog/financial-support-students", text: "Students"}
 
 # Hero Block
 heroImage: "Litoral.jpg"

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Accommodation"
-date:   2017-09-25 09:00:00
+date:   2019-09-25 09:00:00
 isStaticPost: false
 ---
 #### __19th Brazilian Logic Conference__
