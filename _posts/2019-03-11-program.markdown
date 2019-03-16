@@ -22,7 +22,7 @@ The complete program is going to be published soon. In the meanwhile, you can fi
 
 ###### Round Tables
 - Alexandre Costa-Leite, Eduardo Ochs, Jean-Yves Beziau, João Marcos: Algumas Abordagens para Disciplinas de Lógica em Cursos de Graduação
-- Giorgio Venturi, Dirk Greimann, Marco Ruffino, João Vitor Smith: Speech Acts in Mathematics
+- Giorgio Venturi, Dirk Greimann, Marco Ruffino, João Vitor Schmidt: Speech Acts in Mathematics
 - Gisele Secco, Valeria de Paiva, Cláudia Nalon, Elaine Pimentel: Mulheres na Lógica (e no Brasil)
 - Marcos Silva, Dirk Greimann, Sofia Stein, Walter Carnielli, Cezar Mortari: Lógica e Filosofia Analítica: passado, presente e futuro (joint session SBL/SBFA)
 - Ricardo Silvestre, Fábio Bertato, Agnaldo Cuoco Portugal, Jean-Yves Beziau: Lógica e Religião
