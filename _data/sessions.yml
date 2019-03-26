@@ -15,7 +15,7 @@
 -
   id: 003
   title: "Logic and Existence: How Logic and Metaphysics are Entangled"
-  description: ""
+  description: "The thesis that logic and metaphysics are entangled is cashed out as: logic and metaphysics have to be developed simultaneously -- to develop logic one needs to develop metaphysics and to develop metaphysics one needs to develop logic. In particular, to develop logic, one needs logical and abstract objects of some sort: sentence and symbol types (not tokens), truth-values, possible worlds, properties or the extensions of properties, natural numbers (as conceived by Frege), etc. I try to show that one must simultaneously develop a theory of these metaphysical objects while one is formulating the foundations of logic."
   subtype: presentation
   speakers: [3]
   language: en
