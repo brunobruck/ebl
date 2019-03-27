@@ -43,7 +43,7 @@
 -
   id: 007
   title: "What makes a logic dynamic?"
-  description: ""
+  description: "In recent years, many dynamic logics have been proposed in fields like Computer Science, Phylosophy, Physics and Formal Biology. In this talk, we discuss three broad categories where dynamic logics have been developed: dynamic logics for program/process specification, dynamic Logics for reasoning about  actions  in AI, multi-agent epistemic logic and dynamic epistemic logics. First, we present some standard  extension of Propositional Dynamic Logic. Second, we introduce a Dynamic Logic in which the programs are terms in some process algebras: CCS (Calculus for Communicating Systems) and pi-Calculus specifications. We discuss how to match the notion of bisimulation between two processes in  CCS  with the notion of logically equivalent processes in PDL.  Finally, we briefly discuss other possibilities to extend PDL, for instance adding data structure, with Petri nets and with fuzzy programs."
   subtype: presentation
   speakers: [7]
   language: en
