@@ -36,7 +36,7 @@
 -
   id: 006
   title: "What coalgebra can do for you?"
-  description: ""
+  description: "Often referred to as 'the mathematics of dynamical, state-based systems', coalgebra claims to provide a compositional and uniform framework to specify, analyse and reason about state and behaviour in computing.  This lecture addresses this claim by discussing why Coalgebra matters for the design of models and logics for computational phenomena. To a great extent, in this domain one in interested in properties that are preserved along the system's evolution, the so-called `business rules', as well as in `future warranties', stating that e.g.  some desirable outcome will be eventually produced.   Both classes are examples of modal assertions, i.e. properties that are to be interpreted across a transition system capturing the system's dynamics. The relevance of modal reasoning in computing is witnessed by the fact that most university syllabi in the area include some incursion into modal logic, in particular in its temporal variants. The novelty is that, as it happens with the  notions of  transition, behaviour, or observational equivalence,  modalities in Coalgebra  acquire a shape . That is, they become parametric on whatever type of behaviour, and corresponding coinduction scheme,  seems appropriate for addressing the problem at hand. <br>In this context, the lecture revisits Coalgebra from a computational perspective, focussing on models, their composition and behavioural properties.An effort will be  made to help  building up the right intuitions, often at the expense of a completely self-contained exposition."
   subtype: presentation
   speakers: [6]
   language: en
