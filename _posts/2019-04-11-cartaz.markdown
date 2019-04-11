@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Cartaz oficial do evento"
+date:   2019-04-11 09:00:00
+isStaticPost: false
+---
+#### __19th Brazilian Logic Conference__
+##### May 6-10, 2019 -- João Pessoa / PB, Brazil
+
+Disponível o cartaz oficial do evento <a href="/assets/cartaz_EBL_2019.png" target="_blank">(Download em alta resolução)</a>.
+
+<img src="/assets/cartaz_EBL_2019.png" width="750">
