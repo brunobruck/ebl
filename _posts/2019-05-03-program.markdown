@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "Program"
+date:   2019-05-03 09:00:00
+isStaticPost: false
+---
+#### __19th Brazilian Logic Conference__
+##### May 6-10, 2019 -- João Pessoa / PB, Brazil
+
+#### Program
+
+<br>
+You can download the complete program <a href="/assets/Program_EBL_2019.pdf" target="_blank">here</a>.
+
+<br>
+
+<object data="/assets/Program_EBL_2019.pdf" width="1000" height="1000" type='application/pdf'/>
+
+#### Contact
+
+For more information please contact the Organizing Committee at <a href="mailto:EBL2019contact@gmail.com">EBL2019contact@gmail.com</a>.

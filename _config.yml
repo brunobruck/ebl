@@ -38,8 +38,8 @@ eventDate: "May 6-10, 2019"
 typeoutTextValues: '"", "| João Pessoa", "| Brazil"'
 # typeoutFallback: "Season"
 heroButtons:
- - {permalink: "/blog/call-for-papers", text: "Call for Papers"}
- - {permalink: "/blog/registration", text: "Registration"}
+ - {permalink: "/blog/program", text: "Program"}
+ - {permalink: "/blog/book-abstracts", text: "Book of abstracts"}
 
 # About Block
 aboutTitle: "About the 19th Brazilian Logic Conference"
