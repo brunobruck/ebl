@@ -38,7 +38,7 @@ eventDate: "May 6-10, 2019"
 typeoutTextValues: '"", "| João Pessoa", "| Brazil"'
 # typeoutFallback: "Season"
 heroButtons:
- - {permalink: "/blog/program", text: "Program"}
+ - {permalink: "/blog/certificates", text: "Certificates"}
  - {permalink: "/blog/book-abstracts", text: "Book of abstracts"}
 
 # About Block
